@@ -1,0 +1,5 @@
+Design Shop Management Project
+Create User Ineteface on React
+Create MySQL for Backend
+Create Tables in MySQL and intially link two tables and set and Get data as a trial from both of two Newly Created Tables
+Show Datafrom two tables , and Enter Data in two Tables and update.
